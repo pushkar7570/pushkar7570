@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @pushkar7570
+- 👀 I’m interested in learning and working on new things about the technologies and softwares.
+- 🌱 I’m currently studying Bachelor of Technology Computer Science and Engineering from Graphic Era Hill University.
+- 📫 You can reach me on https://www.linkedin.com/in/pushkar-singh-ba9253166 
+
+<!---
+pushkar7570/pushkar7570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
