@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pushkar Singh
-- 👀 I’m interested in learning and working on new things about the technologies and softwares.
+- 👀 I’m interested in learning and working on new things about new technologies and softwares.
 - 🌱 I’m currently studying Bachelor of Technology Computer Science and Engineering from Graphic Era Hill University.
 - 📫 You can reach me on https://www.linkedin.com/in/pushkar-singh-ba9253166 
 
